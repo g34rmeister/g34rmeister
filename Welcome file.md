@@ -325,8 +325,32 @@
 | _maringwin_ | - | n | mosquito |
 | _mars_ | - | n | March |
 | _maryaj_ | - | n | marriage |
-
+| _mashinn_ | - | n | machine; motor |
+| _mayi_ | - | n | corn |
+| _mé_ | - | n | May |
+| _médsinn_ | - | n | medicine |
+| _méli-mélanj_ | - | n | mix |
+| _(la)mès_ | _lamès_ | n | church; mass |
+| _(la)mézon_ | _lamézon_ | n | house |
+| _mil_ | - | n | thousand; mile |
+| _milé_ | - | n | mule |
+| _(la)min_ | _lamin_ | n | hand |
+| _(dé)mir_ | _démir_ | n | berry |
+| _(la)miray_ | _lamiray_ | n | wall |
+| _miryaj_ | - | n | cloud |
+| _misyé_ | - | n | Mr.; sir; gentleman |
+| _(la)mizær_ | _lamizær_ | n | misery; trouble |
+| _(la)mizik_ | _lamizik_ | n | music |
+| _mizisyin_ | - | n | musician |
+| _(dé)mlon_ | _démlon_ | n | melon |
+| _(la)mòché_ | _lamòché_ | n | half of |
+| _mòché-frær_ | - | n | half-brother |
+| _mòché-sœr_ | - | n | half-sister |
+| _moman_ | - | n | mom |
+| _montañ_ | - | n | mountain |
+| _(la)mòr_ | _lamòr_ | n | death |
+| _mòrso_ | - | n | little piece |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMzk5MDg5NSwxMzcxOTA5MTQ5LDc2Nz
-gyMzkwOV19
+eyJoaXN0b3J5IjpbLTE5OTk2MTk2MDMsMTM3MTkwOTE0OSw3Nj
+c4MjM5MDldfQ==
 -->
