@@ -425,8 +425,32 @@
 | _(la)poud_ | _lapoud_ | n | powder; dust; gunpowder |
 | _poul_ | - | n | chicken; hen |
 | _poulayé_ | - | n | henhouse |
-
+| _(la)pousyær_ | _lapousyær_ | n | dust |
+| _printem_ | - | n | spring |
+| _prizon_ | - | n | prison |
+| _(dé)pwa_ | _dépwa_ | n | green peas |
+| _(la)pwal_ | _lapwal_ | n | frying pan |
+| _(dé)pwar_ | _dépwar_ | n | pear |
+| _pwason_ | - | n | fish |
+| _pwason-armé_ | - | n | gar (fish) |
+| _pyas_ | - | n | dollar |
+| _pyé_ | - | n | foot |
+| _ra_ | - | n | rat |
+| _ra-d-bwa_ | - | n | possum |
+| _(la)ras_ | _laras_ | n | race |
+| _ravé_ | - | n | cockroach |
+| _rékòlt_ | - | n | harvest; crop |
+| _rémèd_ | - | n | remedy; medicine |
+| _répons_ | - | n | answer; response |
+| _rèspé_ | - | n | respect |
+| _rèv_ | - | n | dream |
+| _(la)rimm_ | _larimm_ | n | cold (sickness); flu |
+| _(la)rivyær_ | _larivyær_ | n | river |
+| _ròb_ | - | n | dress |
+| _rodayœr_ | - | n | traveller |
+| _(la)rozé_ | _larozé_ | n | dew |
+| _særmen_ | - | n | swear; promise |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNjU1NjUyLC0yMTk0NTA4MTQsLTE5OT
-k2MTk2MDMsMTM3MTkwOTE0OSw3Njc4MjM5MDldfQ==
+eyJoaXN0b3J5IjpbLTg4MzIxODM1OCwtMjE5NDUwODE0LC0xOT
+k5NjE5NjAzLDEzNzE5MDkxNDksNzY3ODIzOTA5XX0=
 -->
