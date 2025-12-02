@@ -225,6 +225,32 @@
 | _kinz_ | - | n | fifteen |
 | _kiréy_ | - | n | squirrel |
 | _kishòj_ | - | n | thing; something |
+| _kiyær_ | - | n | spoon |
+| _(la)kizinn_ | _lakizinn_ | n | kitchen |
+| _(la)klé_ | _laklé_ | n | key |
+| _klo_ | - | n | field |
+| _klo lwil_ | - | n | oilfield |
+| _klœb_ | - | n | club; nightclub |
+| _klou_ | - | n | nail |
+| _klouk_ | - | n | male genitalia |
+| _kœr_ | - | n | heart |
+| _kokiy_ | - | n | shell |
+| _kokodri_ | - | n | alligator |
+| _kòmærs_ | - | n | gossip |
+| _komod_ | - | n | toilet |
+| _(la)kompoñi_ | _lakompoñi_ | n | company (people) |
+| _(la)kònésans_ | _lakònésans_ | n | act of meeting someone |
+| _konsèy_ | - | n | advice |
+| _konværsasyon_ | - | n | conversation |
+| _kòp_ | - | n | cup |
+| _korish_ | - | n | rooster |
+| _kòrn_ | - | n | horn |
+| _koshon_ | - | n | pig |
+| _koton_ | - | n | cotton |
+| _kòton-mayi_ | - | n | corncob |
+| _kou_ | - | n | neck |
+| _koulœr_ | - | n | color |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3MTkwOTE0OSw3Njc4MjM5MDldfQ==
+eyJoaXN0b3J5IjpbMTY1NDAzMjU5OCwxMzcxOTA5MTQ5LDc2Nz
+gyMzkwOV19
 -->
