@@ -350,8 +350,71 @@
 | _montañ_ | - | n | mountain |
 | _(la)mòr_ | _lamòr_ | n | death |
 | _mòrso_ | - | n | little piece |
-
+| _moun_ | - | n | person |
+| _(dé)moush_ | _démoush_ | n | fly |
+| _moush-a-myèl_ | - | n | honeybee |
+| _moustash_ | - | n | mustache |
+| _(la)moutard_ | _lamoutard_ | n | mustard |
+| _mouton_ | - | n | sheep |
+| _namm_ | - | n | soul |
+| _nanglé_ | - | n | English language |
+| _napa_ | - | n | bait |
+| _narb_ | - | n | tree |
+| _nèf, nœf_ | - | n | nine |
+| _(la)nèj_ | _lanèj_ | n | snow |
+| _névé_ | - | n | nephew |
+| _nidé_ | - | n | idea; mind; thought |
+| _nik_ | - | n | nest |
+| _nivo_ | - | n | level |
+| _nom_ | - | n | name |
+| _nom-d-famiy_ | - | n | surname |
+| _nom-d-maryaj_ | - | n | married name |
+| _nonk_ | - | n | uncle |
+| _nonm_ | - | n | man |
+| _nòtis_ | - | n | sign |
+| _Nouvèl-Òrléan_ | - | n | New Orleans |
+| _novemb_ | - | n | November |
+| _nwa_ | - | n | nut |
+| _nwaj_ | - | n | cloud |
+| _Nwèl_ | - | n | Christmas |
+| _(la)nwit_ | _lanwit_ | n | night |
+| _nyès_ | - | n | niece |
+| _oktòb_ | - | n | October |
+| _(l)ombraj_ | _lombraj_ | n | shade |
+| _onz_ | - | n | eleven |
+| _ouvraj_ | - | n | work |
+| _Ozilinwa_ | - | n | Illinois |
+| _padna_ | - | n | friend |
+| _pær_ | - | n | father |
+| _(pa) pærsonn_ | - | n | no one |
+| _Pak_ | - | n | Easter |
+| _pakònn_ | - | n | pecan |
+| _pantalon_ | - | n | pants |
+| _paradi_ | - | n | heaven |
+| _paren_ | - | n | parent; relative |
+| _parin_ | - | n | godfather |
+| _paròl_ | -| Word | Variant | Part of Speech | Definition |
+| :--- | :--- | :--- | :--- |
+| _nwaj_ | - | n | cloud |
+| _Nwèl_ | - | n | Christmas |
+| _(la)nwit_ | _lanwit_ | n | night |
+| _nyès_ | - | n | niece |
+| _oktòb_ | - | n | October |
+| _(l)ombraj_ | _lombraj_ | n | shade |
+| _onz_ | - | n | eleven |
+| _ouvraj_ | - | n | work |
+| _Ozilinwa_ | - | n | Illinois |
+| _padna_ | - | n | friend |
+| _pær_ | - | n | father |
+| _(pa) pærsonn_ | - | n | no one |
+| _Pak_ | - | n | Easter |
+| _pakònn_ | - | n | pecan |
+| _pantalon_ | - | n | pants |
+| _paradi_ | - | n | heaven |
+| _paren_ | - | n | parent; relative |
+| _parin_ | - | n | godfather |
+| _paròl_ | -
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ5NTI4NTM5LC0xOTk5NjE5NjAzLDEzNz
-E5MDkxNDksNzY3ODIzOTA5XX0=
+eyJoaXN0b3J5IjpbLTg0MDkzNTU5MSwtMTk5OTYxOTYwMywxMz
+cxOTA5MTQ5LDc2NzgyMzkwOV19
 -->
