@@ -500,32 +500,9 @@
 | _soup_ | _lasoup_ | n | soup |
 | _soupé_ | - | n | supper |
 | _soutærin_ | - | n | basement |
-| Spañol | - | n | Spaniard |
-| sto | - | n | store |
-| stov | - | n | stove |
-| swaré | - | n | evening; eveningtime |
-| swasant | - | n | sixty |
-| swasant-dis | - | n | seventy |
-| swasant-é-ènn | - | n | sixty-one |
-| swasant-onz | - | n | seventy-one |
-| syèl | - | n | sky; heaven |
-| tab | latab | n | table |
-| taba | - | n | tobacco |
-| tær | latær | n | earth; ground; dirt |
-| taktak | - | n | popcorn |
-| tambou | - | n | drum |
-| tant | - | n | aunt |
-| tas | - | n | cup |
-| Tèksas | - | n | Texas |
-| tem | - | n | weather; time |
-| tèt | latèt | n | head |
-| ti | - | n | small; little |
-| ti-fiy | - | n | granddaughter |
-| ti-garçon | - | n | grandson |
-| ti-nom | - | n | nickname |
-| ti-zenfan, ti-piti | - | n | grandchild |
-| tig | - | n | tiger |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjQ5NTk2MjcsLTIxOTQ1MDgxNCwtMT
-k5OTYxOTYwMywxMzcxOTA5MTQ5LDc2NzgyMzkwOV19
+eyJoaXN0b3J5IjpbMTQzNTUwODYwOSwtMTA2NDk1OTYyNywtMj
+E5NDUwODE0LC0xOTk5NjE5NjAzLDEzNzE5MDkxNDksNzY3ODIz
+OTA5XX0=
 -->
