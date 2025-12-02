@@ -642,9 +642,83 @@
 | _embrasé_ | _embras_ | v | hug; kiss |
 | _èndjòy_ | - | v | enjoy |
 | _èskizé_ | _èskiz_ | v | excuse |
-
+| _èspær (pou)_ | - | v | wait (for) |
+| _étærné_ | _étærn_ | v | sneeze |
+| _étidyé_ | _étidi_ | v | study |
+| _étoufé_ | _étouf_ | v | stew; smother |
+| _færmé_ | _færm_ | v | close; shut |
+| _fé_ | - | v | do; make |
+| _fimé_ | _fimm_ | v | smoke tobacco |
+| _fini_ | - | v | finish; complete |
+| _flèri_ | - | v | bloom |
+| _fònné_ | _fònn_ | v | wilt |
+| _frédi_ | - | v | get cold |
+| _fri_ | - | v | fry |
+| _galopé_ | _galòp_ | v | run; manage |
+| _ganñé_ | _ganñ_ | v | win; earn |
+| _gardé_ | _gar_ | v | look at; seem like; watch |
+| _garoshé_ | _garòsh_ | v | throw |
+| _géri_ | - | v | heal; cure |
+| _gèté_ | _gèt_ | v | watch; look at |
+| _gin_ | - | v | have |
+| _gouté_ | _gou_ | v | taste |
+| _grandi_ | - | v | grow up; grow |
+| _graté_ | _grat_ | v | scratch |
+| _griyé_ | _griy_ | v | grill; roast |
+| _grosi_ | - | v | grow; grow up; get fat |
+| _grouyé_ | _grouy_ | v | move; shake |
+| _hélé_ | _hèl_ | v | yell; shout |
+| _izé_ | _iz_ | v | use |
+| _japé_ | _jap_ | v | bark |
+| _jélé_ | _jèl_ | v | freeze |
+| _jété_ | _jèt_ | v | throw; get rid of |
+| _jonglé_ | _jong (pou/enho/apré)_ | v | think about |
+| _joué_ | _jou_ | v | play |
+| _jwènn_ | - | v | meet |
+| _kasé_ | _kas_ | v | break; crack; shuck; shell |
+| _kité_ | _kit_ | v | leave; let |
+| _klouyé_ | _klou_ | v | nail |
+| _komensé_ | _komens_ | v | start; begin |
+| _komprenn_ | - | v | understand |
+| _koné_ | - | v | know; can; able |
+| _koñé_ | _koñ_ | v | hit; strike; bump |
+| _kontiné_ | - | v | continue |
+| _koupé_ | _koup_ | v | cut |
+| _kouri_ | - | v | go |
+| _koushé_ | _koush_ | v | go to bed; lie down |
+| _kouté_ | _kout_ | v | listen; cost |
+| _kozé_ | _kòz_ | v | chat |
+| _krashé_ | _krash_ | v | spit |
+| _krèvé_ | _krèv_ | v | die |
+| _krò_ | - | v | believe; think |
+| _kwi_ | - | v | cook |
+| _lavé_ | _lav_ | v | wash |
+| _lésé_ | _lès_ | v | leave; let |
+| _lévé_ | _lèv_ | v | get up; raise |
+| _linmé_ | _linm_ | v | love; like |
+| _lir_ | - | v | read |
+| _loué_ | _lou_ | v | rent |
+| _mandé_ | _mand_ | v | ask |
+| _manjé_ | _manj_ | v | eat |
+| _manké_ | _mank_ | v | miss; almost do something |
+| _mariyé_ | _mari_ | v | marry |
+| _marshé_ | _marsh_ | v | walk |
+| _mèlé_ | _mèl_ | v | mix |
+| _ménajé_ | _ménaj_ | v | use sparingly; economize |
+| _ménné_ | _mènn_ | v | bring; haul |
+| _menti_ | _men_ | v | lie |
+| _mèt_ | - | v | put; put on |
+| _minn_ | - | v | mean |
+| _monté_ | _mont_ | v | ride |
+| _montré_ | _mont_ | v | teach; show |
+| _mòrd_ | - | v | bite; sting |
+| _mouri_ | - | v | die |
+| _mouyé_ | _mouy_ | v | wet; rain |
+| _najé_ | _naj_ | v | swim |
+| _né_ | - | v | born |
+| _néjé_ | _nèj_ | v | snow |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDk5OTMxNDc4LDEyNTU5NDk0ODYsLTEwNj
-Q5NTk2MjcsLTIxOTQ1MDgxNCwtMTk5OTYxOTYwMywxMzcxOTA5
-MTQ5LDc2NzgyMzkwOV19
+eyJoaXN0b3J5IjpbLTEzMTM0MDAyODMsMTI1NTk0OTQ4NiwtMT
+A2NDk1OTYyNywtMjE5NDUwODE0LC0xOTk5NjE5NjAzLDEzNzE5
+MDkxNDksNzY3ODIzOTA5XX0=
 -->
