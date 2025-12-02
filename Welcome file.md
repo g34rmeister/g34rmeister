@@ -589,8 +589,62 @@
 | _zyé_ | - | n | eye |
 
 
+
+| Creole | Variants | Part of Speech | English |  
+| --- | --- | --- | --- |  
+| _aklé_ | - | v | lock |
+| _alé_ | - | v | go |
+| _aprenn_ | - | v | learn; teach |
+| _arété_ | _arèt_ | v | stop |
+| _arivé_ | _ariv_ | v | arrive; happen |
+| _ashté_ | _ashèt_ | v | buy |
+| _asit_ | - | v | sit |
+| _aværti_ | - | v | warn |
+| _avansé_ | _avans_ | v | progress |
+| _balé_ | _bal_ | v | sweep |
+| _baloté_ | _balot_ | v | stagger |
+| _barbouyé_ | _barbouy_ | v | dirty; get dirty |
+| _baré_ | _bar_ | v | lock; block |
+| _bat_ | - | v | fight; beat |
+| _bati_ | - | v | build |
+| _bèñé_ | _bèñ_ | v | swim; bathe |
+| _bezwin_ | - | v | need |
+| _blanshi_ | - | v | whitewash |
+| _blèsé_ | _blès_ | v | injure |
+| _bliyé_ | _bliy_ | v | forget |
+| _bouklé_ | _bouk_ | v | buckle |
+| _boulværsé_ | _boulværs_ | v | upset; change suddenly |
+| _bouyi_ | _bouy_ | v | boil |
+| _brilé_ | _bril_ | v | burn |
+| _briyé_ | _briy_ | v | shine |
+| _brizé_ | _briz_ | v | shatter |
+| _bwa_ | - | v | drink |
+| _çé_ | - | v | be |
+| _chaké_ | _chak_ | v | get drunk |
+| _chéké_ | _chèk_ | v | check |
+| _chombo_ | - | v | hold |
+| _choué_ | _chou_ | v | kill |
+| _dansé_ | _dans_ | v | dance |
+| _déménajé_ | _déménaj_ | v | move house |
+| _désann_ | - | v | go down; get off |
+| _dèt_ | - | v | be (imperative); be (infinitive) |
+| _détèsté_ | _détès_ | v | dislike |
+| _di_ | - | v | say; tell |
+| _diré_ | _dir_ | v | last (for a while) |
+| _donn_ | - | v | give |
+| _dòrmi_ | _dòr_ | v | sleep |
+| _dursi_ | - | v | harden |
+| _dwa_ | - | v | have to; must |
+| _èdé_ | _èd_ | v | help |
+| _ékri_ | - | v | write |
+| _èksplozé_ | - | v | explode |
+| _èlvé_ | _(è)lèv_ | v | raise; grow |
+| _embrasé_ | _embras_ | v | hug; kiss |
+| _èndjòy_ | - | v | enjoy |
+| _èskizé_ | _èskiz_ | v | excuse |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDMzNjQyMTQsMTI1NTk0OTQ4NiwtMT
-A2NDk1OTYyNywtMjE5NDUwODE0LC0xOTk5NjE5NjAzLDEzNzE5
-MDkxNDksNzY3ODIzOTA5XX0=
+eyJoaXN0b3J5IjpbNDk5OTMxNDc4LDEyNTU5NDk0ODYsLTEwNj
+Q5NTk2MjcsLTIxOTQ1MDgxNCwtMTk5OTYxOTYwMywxMzcxOTA5
+MTQ5LDc2NzgyMzkwOV19
 -->
