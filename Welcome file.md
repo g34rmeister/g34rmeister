@@ -400,7 +400,33 @@
 | _patat dous_ | - | n | sweet potato |
 | _pay_ | - | n | pie |
 | _(la)pay_ | _lapay_ | n | straw; husk |
+| _pélikan_ | - | n | pelican |
+| _péshœr_ | - | n | fisher; sinner |
+| _péyi_ | - | n | country; nation |
+| _pikan_ | - | n | sticker; thorn |
+| _pimen_ | - | n | pepper (vegetable) |
+| _piti_ | - | n | child |
+| _pla_ | - | n | plate; dish (of food) |
+| _plakminn_ | - | n | persimmon |
+| _planshé_ | - | n | floor |
+| _plant_ | - | n | plant |
+| _plas_ | - | n | place; space |
+| _play_ | - | n | beach |
+| _plènn_ | - | n | plain |
+| _pléri_ | - | n | prairie |
+| _plézir_ | - | n | pleasure |
+| _(la)pli_ | _lapli_ | n | rain |
+| _(la)plòt_ | _laplòt_ | n | ball |
+| _(la)po_ | _lapo_ | n | skin |
+| _polis_ | - | n | police |
+| _popa_ | - | n | dad |
+| _pòrt_ | - | n | door |
+| _pòrtré_ | - | n | picture; photo; movie |
+| _(la)poud_ | _lapoud_ | n | powder; dust; gunpowder |
+| _poul_ | - | n | chicken; hen |
+| _poulayé_ | - | n | henhouse |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxOTQ1MDgxNCwtMTk5OTYxOTYwMywxMz
-cxOTA5MTQ5LDc2NzgyMzkwOV19
+eyJoaXN0b3J5IjpbLTYxNjU1NjUyLC0yMTk0NTA4MTQsLTE5OT
+k2MTk2MDMsMTM3MTkwOTE0OSw3Njc4MjM5MDldfQ==
 -->
