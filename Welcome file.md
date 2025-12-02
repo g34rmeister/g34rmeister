@@ -450,7 +450,57 @@
 | _rodayœr_ | - | n | traveller |
 | _(la)rozé_ | _larozé_ | n | dew |
 | _særmen_ | - | n | swear; promise |
+| _sal_ | _lasal_ | n | room |
+| _sal-a-manjé_ | - | n | dining room |
+| _salad_ | _lasalad_ | n | salad |
+| _salon_ | - | n | living room |
+| _sanmdi_ | - | n | Saturday |
+| _sasafra_ | - | n | sassafras |
+| _sèptemb_ | - | n | September |
+| _sèt_ | - | n | seven |
+| _sèz_ | - | n | sixteen |
+| _sézon_ | _lasézon_ | n | season |
+| _shandèl_ | - | n | candle |
+| _shanm_ | - | n | room; bedroom |
+| _shanm-a-bin_ | - | n | bathroom |
+| _shanm-a-koushé_ | - | n | bedroom |
+| _shans_ | _lashans_ | n | luck; chance |
+| _shanson_ | - | n | song |
+| _shapo_ | - | n | hat |
+| _shar_ | - | n | car |
+| _shawi_ | - | n | raccoon |
+| _shévé_ | - | n | hair |
+| _shevrèt_ | - | n | shrimp |
+| _shèvréy_ | - | n | deer |
+| _shimij_ | - | n | shirt |
+| _shmin_ | - | n | road; path |
+| _shodyær_ | - | n | pot; pan |
+| _shou_ | _déshou_ | n | cabbage |
+| _shval_ | - | n | horse |
+| _shyin_ | - | n | dog |
+| _siñ_ | - | n | sign |
+| _sinkant_ | - | n | fifty |
+| _sinkant-é-ènn_ | - | n | fifty-one |
+| _sipré_ | - | n | Eastern red cedar |
+| _sipriyær_ | - | n | swamp; cypress swamp |
+| _sirkonflèks_ | - | n | circumflex (accent mark) |
+| _siro_ | - | n | syrup; womanizer |
+| _sis_ | - | n | six |
+| _smènn_ | _lasmènn_ | n | week |
+| _sœr_ | - | n | sister |
+| _sofa_ | - | n | sofa; couch |
+| _sol_ | - | n | willow tree |
+| _soléy_ | - | n | sun |
+| _soléy-koushé_ | - | n | sunset |
+| _soléy-lévé_ | - | n | sunrise |
+| _sòs_ | _lasòs_ | n | sauce |
+| _sosis_ | - | n | sausage |
+| _sou_ | - | n | cent |
+| _soulyé_ | - | n | shoes |
+| _soup_ | _lasoup_ | n | soup |
+| _soupé_ | - | n | supper |
+| _soutærin_ | - | n | basement |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4MzIxODM1OCwtMjE5NDUwODE0LC0xOT
+eyJoaXN0b3J5IjpbLTU5OTUwNDM2NSwtMjE5NDUwODE0LC0xOT
 k5NjE5NjAzLDEzNzE5MDkxNDksNzY3ODIzOTA5XX0=
 -->
