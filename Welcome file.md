@@ -587,8 +587,10 @@
 | _zwazo_ | - | n | bird |
 | _zwit_ | _dézwit_ | n | oyster |
 | _zyé_ | - | n | eye |
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1NTk0OTQ4NiwtMTA2NDk1OTYyNywtMj
-E5NDUwODE0LC0xOTk5NjE5NjAzLDEzNzE5MDkxNDksNzY3ODIz
-OTA5XX0=
+eyJoaXN0b3J5IjpbLTEwNDMzNjQyMTQsMTI1NTk0OTQ4NiwtMT
+A2NDk1OTYyNywtMjE5NDUwODE0LC0xOTk5NjE5NjAzLDEzNzE5
+MDkxNDksNzY3ODIzOTA5XX0=
 -->
