@@ -393,28 +393,14 @@
 | _paradi_ | - | n | heaven |
 | _paren_ | - | n | parent; relative |
 | _parin_ | - | n | godfather |
-| _paròl_ | -| Word | Variant | Part of Speech | Definition |
-| :--- | :--- | :--- | :--- |
-| _nwaj_ | - | n | cloud |
-| _Nwèl_ | - | n | Christmas |
-| _(la)nwit_ | _lanwit_ | n | night |
-| _nyès_ | - | n | niece |
-| _oktòb_ | - | n | October |
-| _(l)ombraj_ | _lombraj_ | n | shade |
-| _onz_ | - | n | eleven |
-| _ouvraj_ | - | n | work |
-| _Ozilinwa_ | - | n | Illinois |
-| _padna_ | - | n | friend |
-| _pær_ | - | n | father |
-| _(pa) pærsonn_ | - | n | no one |
-| _Pak_ | - | n | Easter |
-| _pakònn_ | - | n | pecan |
-| _pantalon_ | - | n | pants |
-| _paradi_ | - | n | heaven |
-| _paren_ | - | n | parent; relative |
-| _parin_ | - | n | godfather |
-| _paròl_ | -
+| _paròl_ | - | n | word |
+| _(la)pat_ | _lapat_ | n | paw; leg or foot (of animal) |
+| _patasa_ | - | n | sunfish |
+| _patat_ | - | n | potato; sweet potato |
+| _patat dous_ | - | n | sweet potato |
+| _pay_ | - | n | pie |
+| _(la)pay_ | _lapay_ | n | straw; husk |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MDkzNTU5MSwtMTk5OTYxOTYwMywxMz
+eyJoaXN0b3J5IjpbLTIxOTQ1MDgxNCwtMTk5OTYxOTYwMywxMz
 cxOTA5MTQ5LDc2NzgyMzkwOV19
 -->
