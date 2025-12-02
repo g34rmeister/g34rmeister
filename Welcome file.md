@@ -742,8 +742,72 @@
 | _(ré)pozé_ | _poz_ | v | rest; relax (sometimes reflexive) |
 | _prenn_ | - | v | take |
 | _priyé_ | _priy_ | v | pray |
+| _promèt_ | - | v | promise |
+| _protéjé_ | _protèj_ | v | protect |
+| _pyoshé_ | _pyòsh_ | v | hoe; dig |
+| _ramasé_ | _ramas_ | v | gather; pick up; collect |
+| _ranjé_ | _ranj_ | v | fix; repair; arrange; prepare |
+| _raplé_ | _rapèl_ | v | remember |
+| _rentré_ | _rent_ | v | enter; return; come home |
+| _réponn_ | - | v | answer; respond |
+| _rèshté_ | _rèshèt_ | v | vomit; throw up |
+| _rèspèkté_ | _rèspèk_ | v | respect |
+| _rèsté_ | _rès_ | v | stay; remain; habitate; live; dwell |
+| _rèvé_ | _rèv_ | v | dream |
+| _rodayé_ | _roday_ | v | travel on the road; roam; gallivant |
+| _roti_ | - | v | roast; grill |
+| _særvi_ | _sær_ | v | use |
+| _safré_ | _saf_ | v | eat (of animals); eat like an animal (of humans) |
+| _sali_ | - | v | get dirty |
+| _senm_ | - | v | seem; appear; look like |
+| _senti_ | _sen_ | v | feel (reflexive); smell |
+| _séyé_ | _séy_ | v | try |
+| _shanjé_ | _shanj_ | v | change |
+| _shanté_ | _shant_ | v | sing |
+| _shapé_ | _shap_ | v | escape; get away |
+| _sharé_ | _shar_ | v | chat |
+| _sharshé_ | _sharsh_ | v | seek; look for |
+| _shasé_ | _shas_ | v | hunt |
+| _shiké_ | _shik_ | v | chew |
+| _shiyé_ | _shiy_ | v | shit |
+| _siflé_ | _sif_ | v | whistle |
+| _sinmé_ | _sinm_ | v | sow |
+| _sipozé_ | _sipòz_ | v | suppose |
+| _sisé_ | _sis_ | v | suck |
+| _sòrti_ | _sòr_ | v | be from (somewhere); go out; end up |
+| _souflé_ | _souf_ | v | blow (of wind); breathe |
+| _sové_ | _sov_ | v | save |
+| _spéré_ | _èspær_ | v | wait |
+| _spìnn_ | - | v | spin records |
+| _swaté_ | _swat_ | v | hope; wish |
+| _swé_ | - | v | sweat |
+| _swiv_ | - | v | follow |
+| _swonñé_ | _swonñ_ | v | care for; nurse |
+| _tayé_ | _tay_ | v | beat |
+| _tendé_ | _tenn_ | v | hear |
+| _tombé_ | _tomb_ | v | fall |
+| _tòrné_ | _tòrn_ | v | turn |
+| _tousé_ | _tous_ | v | cough |
+| _trakasé_ | _trakas_ | v | worry |
+| _trapé_ | _trap_ | v | get; catch; trap |
+| _travayé_ | _travay_ | v | work |
+| _trènné_ | _trènn_ | v | trail; drag |
+| _tròs_ | - | v | trust |
+| _ve_ | - | v | want |
+| _venn_ | - | v | sell |
+| _vini_ | _vyin_ | v | come; become |
+| _viv_ | - | v | live; dwell |
+| _vizité_ | _vizit_ | v | visit (person or place) |
+| _vo_ | - | v | worth |
+| _volé_ | _vòl_ | v | fly; steal |
+| _vomi_ | - | v | vomit |
+| _voyé_ | _vòy_ | v | send; throw |
+| _vwayajé_ | _vwayaj_ | v | travel |
+| _war_ | - | v | see |
+| _yê_ | - | v | be (interrogative); be (relative) |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIyMDg5NDg1LC0xMzEzNDAwMjgzLDEyNT
-U5NDk0ODYsLTEwNjQ5NTk2MjcsLTIxOTQ1MDgxNCwtMTk5OTYx
-OTYwMywxMzcxOTA5MTQ5LDc2NzgyMzkwOV19
+eyJoaXN0b3J5IjpbMTQxMzk2OTUwMiw0MjIwODk0ODUsLTEzMT
+M0MDAyODMsMTI1NTk0OTQ4NiwtMTA2NDk1OTYyNywtMjE5NDUw
+ODE0LC0xOTk5NjE5NjAzLDEzNzE5MDkxNDksNzY3ODIzOTA5XX
+0=
 -->
