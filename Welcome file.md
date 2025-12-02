@@ -500,9 +500,85 @@
 | _soup_ | _lasoup_ | n | soup |
 | _soupé_ | - | n | supper |
 | _soutærin_ | - | n | basement |
-
+| _Spañol_ | - | n | Spaniard |
+| _sto_ | - | n | store |
+| _stov_ | - | n | stove |
+| _swaré_ | - | n | evening; eveningtime |
+| _swasant_ | - | n | sixty |
+| _swasant-dis_ | - | n | seventy |
+| _swasant-é-ènn_ | - | n | sixty-one |
+| _swasant-onz_ | - | n | seventy-one |
+| _syèl_ | - | n | sky; heaven |
+| _tab_ | _latab_ | n | table |
+| _taba_ | - | n | tobacco |
+| _tær_ | _latær_ | n | earth; ground; dirt |
+| _taktak_ | - | n | popcorn |
+| _tambou_ | - | n | drum |
+| _tant_ | - | n | aunt |
+| _tas_ | - | n | cup |
+| _Tèksas_ | - | n | Texas |
+| _tem_ | - | n | weather; time |
+| _tèt_ | _latèt_ | n | head |
+| _ti_ | - | n | small; little |
+| _ti-fiy_ | - | n | granddaughter |
+| _ti-garçon_ | - | n | grandson |
+| _ti-nom_ | - | n | nickname |
+| _ti-zenfan, ti-piti_ | - | n | grandchild |
+| _tig_ | - | n | tiger |
+| _tikèt_ | - | n | ticket |
+| _tiyon_ | - | n | headscarf; tignon |
+| _tizann_ | _latizann_ | n | herbal tea |
+| _tomat_ | - | n | tomato |
+| _tònær_ | - | n | thunder |
+| _toukishòj_ | - | n | everything |
+| _toulédé_ | - | n | both |
+| _tous_ | - | n | cough |
+| _traka_ | - | n | problem; trouble |
+| _travay_ | - | n | work |
+| _trent_ | - | n | thirty |
+| _trent-é-ènn_ | - | n | thirty-one |
+| _trèz_ | - | n | thirteen |
+| _trézòr_ | - | n | treasure |
+| _trin_ | - | n | noise; train |
+| _trò_ | - | n | three |
+| _tròk_ | - | n | truck |
+| _twa_ | - | n | roof |
+| _twalèt_ | - | n | dresser |
+| _vær_ | _dévær_ | n | worm |
+| _vær_ | - | n | glass; glass (for drinking) |
+| _vash_ | - | n | cow |
+| _vendrédi_ | - | n | Friday |
+| _vent_ | - | n | stomach; belly |
+| _vésèl_ | _lavésèl_ | n | dishes |
+| Word | Variant | Part of Speech | Definition |
+| :--- | :--- | :--- | :--- |
+| _vi_ | _lavi_ | n | life |
+| _vidyo_ | - | n | video |
+| _vil_ | _lavil_, _Lavil_ | n | city |
+| _vilaj_ | - | n | town |
+| _vin_ | - | n | twenty |
+| _vin-dé_ | - | n | twenty-two |
+| _vinég_ | - | n | vinegar |
+| _vint-é-ènn_ | - | n | twenty-one |
+| _vwa_ | _lavwa_ | n | voice |
+| _vwayaj_ | - | n | voyage; trip |
+| _vwazin_ | - | n | neighbor (male or female) |
+| _vwazinaj_ | - | n | neighborhood; vicinity |
+| _vwazinn_ | - | n | neighbor (female) |
+| _vyann_ | _lavyann_ | n | meat |
+| _wawaron_ | - | n | bullfrog |
+| _wiski_ | - | n | whiskey |
+| _wit_ | - | n | eight |
+| _zærb_ | - | n | grass |
+| _zafær_ | - | n | thing |
+| _zartik_ | - | n | article |
+| _zaryin_ | - | n | spider |
+| _zèf_ | _dézèf_ | n | egg |
+| _zégré_ | - | n | egret |
+| _zéklær_ | - | n | lightning |
+| _zépol_ | - | n | shoulder |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNTUwODYwOSwtMTA2NDk1OTYyNywtMj
-E5NDUwODE0LC0xOTk5NjE5NjAzLDEzNzE5MDkxNDksNzY3ODIz
-OTA5XX0=
+eyJoaXN0b3J5IjpbNTI2NjY2OTYzLC0xMDY0OTU5NjI3LC0yMT
+k0NTA4MTQsLTE5OTk2MTk2MDMsMTM3MTkwOTE0OSw3Njc4MjM5
+MDldfQ==
 -->
