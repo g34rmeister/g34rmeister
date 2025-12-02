@@ -350,7 +350,8 @@
 | _montañ_ | - | n | mountain |
 | _(la)mòr_ | _lamòr_ | n | death |
 | _mòrso_ | - | n | little piece |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTk2MTk2MDMsMTM3MTkwOTE0OSw3Nj
-c4MjM5MDldfQ==
+eyJoaXN0b3J5IjpbMjQ5NTI4NTM5LC0xOTk5NjE5NjAzLDEzNz
+E5MDkxNDksNzY3ODIzOTA5XX0=
 -->
