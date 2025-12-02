@@ -550,8 +550,6 @@
 | _vendrédi_ | - | n | Friday |
 | _vent_ | - | n | stomach; belly |
 | _vésèl_ | _lavésèl_ | n | dishes |
-| Word | Variant | Part of Speech | Definition |
-| :--- | :--- | :--- | :--- |
 | _vi_ | _lavi_ | n | life |
 | _vidyo_ | - | n | video |
 | _vil_ | _lavil_, _Lavil_ | n | city |
@@ -577,8 +575,20 @@
 | _zégré_ | - | n | egret |
 | _zéklær_ | - | n | lightning |
 | _zépol_ | - | n | shoulder |
+| _zétaj_ | - | n | floor (of a building) |
+| _zo_ | _dézo_ | n | bone |
+| _zœr_ | - | n | hour; o'clock |
+| _zònyon_ | - | n | onion |
+| _zòrèy_ | - | n | ear |
+| _zòrtèy_ | - | n | toe |
+| _zòt_ | _dézòt_, _lézòt_ | n | others |
+| _zouti_ | - | n | tool |
+| _zwa_ | _dézwa_ | n | goose |
+| _zwazo_ | - | n | bird |
+| _zwit_ | _dézwit_ | n | oyster |
+| _zyé_ | - | n | eye |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI2NjY2OTYzLC0xMDY0OTU5NjI3LC0yMT
-k0NTA4MTQsLTE5OTk2MTk2MDMsMTM3MTkwOTE0OSw3Njc4MjM5
-MDldfQ==
+eyJoaXN0b3J5IjpbMTI1NTk0OTQ4NiwtMTA2NDk1OTYyNywtMj
+E5NDUwODE0LC0xOTk5NjE5NjAzLDEzNzE5MDkxNDksNzY3ODIz
+OTA5XX0=
 -->
