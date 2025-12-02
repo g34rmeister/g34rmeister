@@ -250,7 +250,57 @@
 | _kòton-mayi_ | - | n | corncob |
 | _kou_ | - | n | neck |
 | _koulœr_ | - | n | color |
+| _koundjay_ | - | n | type of dance |
+| _(la)kour_ | _lakour_ | n | yard |
+| _koushkoush_ | - | n | cornbread with sugar and milk |
+| _koushmar_ | - | n | nightmare |
+| _kouto_ | - | n | knife |
+| _kouzin_ | - | n | cousin (male or female) |
+| _kouzinn_ | - | n | cousin (female) |
+| _krab_ | - | n | crab |
+| _krapo_ | - | n | toad |
+| _krébis_ | - | n | crawfish |
+| _Kréyòl_ | - | n | Creole person |
+| _Krismis_ | - | n | Christmas |
+| _kròt_ | - | n | poop |
+| _(la)lamp_ | _lalamp_ | n | lamp |
+| _lañap_ | - | n | lagniappe |
+| _(la)lanng_ | _lalanng_ | n | tongue |
+| _lapé_ | - | n | peace |
+| _larjen_ | - | n | money |
+| _lashas_ | - | n | hunting |
+| _Lavil_ | _vil_ | n | New Orleans |
+| _Lavonn_ | - | n | Advent |
+| _lay_ | - | n | garlic |
+| _léçon_ | - | n | lesson; moral |
+| _légliz_ | - | n | church |
+| _lékòl_ | - | n | school |
+| _léritaj_ | - | n | heritage |
+| _lèskalyé_ | - | n | stairs; staircase |
+| _lèspri_ | - | n | spirit; intelligence |
+| _lèstoma_ | - | n | belly; stomach |
+| _léta_ | - | n | state |
+| _Létazini_ | - | n | USA |
+| _lété_ | - | n | summer |
+| _létwal_ | - | n | star |
+| _lézar_ | - | n | lizard |
+| _liméro_ | _niméro_ | n | number |
+| _limon_ | - | n | lemon |
+| _(la)limyær_ | _lalimyær_ | n | light |
+| _lindi_ | - | n | Monday |
+| _linèt_ | - | n | glasses |
+| _linj_ | - | n | clothes |
+| _(la)linn_ | _lalinn_ | n | moon |
+| _linstrumen_ | - | n | musical instrument |
+| _lis_ | - | n | list |
+| _listwar_ | - | n | story |
+| _lit_ | - | n | bed |
+| _liv_ | - | n | book; pound (unit of measurement) |
+| _livær_ | - | n | winter |
+| _lœr_ | - | n | hour; o'clock |
+| _lofis_ | - | n | office |
+| _lonch_ | - | n | lunch |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NDAzMjU5OCwxMzcxOTA5MTQ5LDc2Nz
-gyMzkwOV19
+eyJoaXN0b3J5IjpbLTE1MDY4OTUzMDYsMTM3MTkwOTE0OSw3Nj
+c4MjM5MDldfQ==
 -->
