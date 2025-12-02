@@ -300,7 +300,33 @@
 | _lœr_ | - | n | hour; o'clock |
 | _lofis_ | - | n | office |
 | _lonch_ | - | n | lunch |
+| _lopital_ | - | n | hospital |
+| _lòragan_ | - | n | hurricane; storm |
+| _lotòn_ | - | n | autumn; fall |
+| _(la)lotri_ | _lalotri_ | n | lottery |
+| _lougarou_ | - | n | werewolf |
+| _louvraj_ | - | n | work |
+| _lwil_ | - | n | oil |
+| _(La)Lwizyann_ | _Lalwizyann_ | n | Louisiana |
+| _madamm_ | - | n | Mrs.; ma'am; lady; wife |
+| _mær_ | - | n | mother |
+| _(la)mær_ | _lamær_ | n | ocean |
+| _mærkrédi_ | - | n | Wednesday |
+| _mal_ | - | n | evil |
+| _mal-o-den_ | - | n | toothache |
+| _mal-o-do_ | - | n | backache |
+| _mal-o-kœr_ | - | n | heartburn |
+| _mal-o-vent_ | - | n | stomach ache |
+| _mal-zòrèy_ | - | n | earache |
+| _manjé_ | - | n | food |
+| _mardi_ | - | n | Tuesday |
+| _marènn_ | - | n | godmother |
+| _mari_ | - | n | husband |
+| _maringwin_ | - | n | mosquito |
+| _mars_ | - | n | March |
+| _maryaj_ | - | n | marriage |
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDY4OTUzMDYsMTM3MTkwOTE0OSw3Nj
-c4MjM5MDldfQ==
+eyJoaXN0b3J5IjpbLTgyMzk5MDg5NSwxMzcxOTA5MTQ5LDc2Nz
+gyMzkwOV19
 -->
