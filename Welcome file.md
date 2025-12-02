@@ -200,6 +200,31 @@
 | _(la)kamponñ_ | _lakamponñ_ | n | country; countryside |
 | _kanar_ | - | n | duck |
 | _(dé)kann_ | _lakann_ | n | sugarcane |
+| _kapitènn_ | - | n | captain |
+| _kapo_ | - | n | coat |
+| _karankro_ | - | n | buzzard; vulture; Carencro |
+| _karant_ | - | n | forty |
+| _karant-é-ènn_ | - | n | fourty-one |
+| _Karèm_ | - | n | Lent |
+| _Karnaval_ | - | n | Mardi Gras |
+| _karòt_ | - | n | carrot |
+| _kart_ | - | n | card |
+| _kat_ | - | n | four |
+| _katòrz_ | - | n | fourteen |
+| _katré-vin_ | - | n | eighty |
+| _katré-vin-dis_ | - | n | ninety |
+| _(la)kav_ | _lakav_ | n | basement; pantry |
+| _kawènn_ | - | n | snapping turtle |
+| _kayé_ | - | n | cottage cheese |
+| _(la)ké_ | _laké_ | n | tail |
+| _kék_ | - | n | cake |
+| _kèk plas_ | - | n | somewhere |
+| _kèk zafær_ | - | n | something |
+| _kèstyon_ | - | n | question |
+| _kilot_ | - | n | pants |
+| _kinz_ | - | n | fifteen |
+| _kiréy_ | - | n | squirrel |
+| _kishòj_ | - | n | thing; something |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzY3ODIzOTA5XX0=
+eyJoaXN0b3J5IjpbMTM3MTkwOTE0OSw3Njc4MjM5MDldfQ==
 -->
