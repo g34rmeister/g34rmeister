@@ -717,8 +717,33 @@
 | _najé_ | _naj_ | v | swim |
 | _né_ | - | v | born |
 | _néjé_ | _nèj_ | v | snow |
+| _nètwayé_ | _nètwa_ | v | clean |
+| _nwayé_ | _nway_ | v | drown |
+| _olé_ | - | v | want |
+| _oté_ | _ot_ | v | take off; remove |
+| _ouvri_ | _ouvær_ | v | open |
+| _pærd_ | - | v | lose |
+| _pardonné_ | _pardonn_ | v | forgive |
+| _parlé_ | _parl_ | v | speak |
+| _partajé_ | _partaj_ | v | share |
+| _parti_ | _par_ | v | leave |
+| _pasé_ | _pas_ | v | pass; pass away |
+| _patouyé_ | _patouy_ | v | splash around |
+| _pe_ | - | v | able to; can |
+| _pé_ | - | v | shut up; quiet |
+| _pèlé_ | _pèl_ | v | call; be named (reflexive) |
+| _penn_ | - | v | hang |
+| _pensé_ | _pens_ | v | think |
+| _pèshé_ | _pèsh_ | v | prevent; fish; sin |
+| _péyé_ | _péy_ | v | pay |
+| _planté_ | _plant_ | v | plant |
+| _pòrté_ | _pòrt_ | v | bring; wear |
+| _pousé_ | _pous_ | v | push; grow |
+| _(ré)pozé_ | _poz_ | v | rest; relax (sometimes reflexive) |
+| _prenn_ | - | v | take |
+| _priyé_ | _priy_ | v | pray |
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTM0MDAyODMsMTI1NTk0OTQ4NiwtMT
-A2NDk1OTYyNywtMjE5NDUwODE0LC0xOTk5NjE5NjAzLDEzNzE5
-MDkxNDksNzY3ODIzOTA5XX0=
+eyJoaXN0b3J5IjpbNDIyMDg5NDg1LC0xMzEzNDAwMjgzLDEyNT
+U5NDk0ODYsLTEwNjQ5NTk2MjcsLTIxOTQ1MDgxNCwtMTk5OTYx
+OTYwMywxMzcxOTA5MTQ5LDc2NzgyMzkwOV19
 -->
